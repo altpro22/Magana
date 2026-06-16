@@ -15,7 +15,7 @@ const CONFIG = {
     facebook: "https://www.facebook.com/LoncheriaMaganaAgs",
     instagram: "https://www.tripadvisor.com/",
     maps: "https://maps.app.goo.gl/557uW3JY2ThC4mHm9", 
-    youtubeUrl: "https://www.youtube.com/watch?v=4LLMlYBo54I",
+    youtubeUrl: "https://www.youtube.com/watch?v=lkmBpI8CiKA",
     textos: {
         cat1: { t: "QUIÉNES SOMOS", c: "La Lonchería Magaña nace en el centro de San Juan de los Lagos, en la década de 1980 cerca de la zona de la basílica. Los clientes destacan su buen sazón, precios accesibles y especialidades como lonches, tostadas, tacos y flautas." },
         cat2: { t: "SERVICIOS", c: "En nuestras sucursales servimos: Tortas o lonches, Pozole, Tostadas, Tacos, Sándwiches y otros antojitos mexicanos. Contando en algunas de ellas con entrega a domicilio o con pedidos al restaurante." },
